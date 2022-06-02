@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuanJF98
+- 👋 Hi, I’m Juan Fernando de Moura Silva/@JuanJF98
 - 👀 I’m interested in programming and english
 - 🌱 I’m currently learning web development full stack
 - 💞️ I’m looking to collaborate on new projects 
